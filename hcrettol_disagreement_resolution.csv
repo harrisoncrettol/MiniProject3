@@ -1,0 +1,10 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;AdjudicatedValue;ResolutionType(AuthorKept/ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+Calamari-OCR_calamari;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Peak in 2021 then mostly 0-10 commits a month;No partner to discuss with, so I went with what the plot shows
+pdclab_peregrine;rpatel92;hcrettol;ActivityPattern;cyclical;irregular;irregular;ValidatorKept;Yes;Only 18 months of data and it jumps around with no pattern;No partner to discuss with, so I went with what the plot shows
+MIC-DKFZ_batchgenerators;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Most activity in 2017-2019, lower after with a few spikes;No partner to discuss with, so I went with what the plot shows
+romerogroup_pyprocar;rpatel92;hcrettol;ActivityPattern;cyclical;irregular;irregular;ValidatorKept;Yes;Spikes at random times (2019, 2020, 2023, 2025), not a fixed interval;No partner to discuss with, so I went with what the plot shows
+Jean-Romain_lidR;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Very high in 2016-2018 then slowly drops off;No partner to discuss with, so I went with what the plot shows
+google-research_football;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Peak in 2020 then mostly 0 commits after 2022;No partner to discuss with, so I went with what the plot shows
+drostlab_philentropy;rpatel92;hcrettol;ActivityPattern;cyclical;irregular;irregular;ValidatorKept;Yes;Random bursts with a lot of 0 months in between;No partner to discuss with, so I went with what the plot shows
+ContextLab_hypertools;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Huge spike in 2016-2017 then barely anything;No partner to discuss with, so I went with what the plot shows
+lima1_PureCN;rpatel92;hcrettol;ActivityPattern;cyclical;declining;declining;ValidatorKept;Yes;Highest in 2016-2017 then slowly lower;No partner to discuss with, so I went with what the plot shows
